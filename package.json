@@ -1,0 +1,21 @@
+{
+  "name": "upload-fileds-file",
+  "version": "1.0.3",
+  "description": "upload-fileds-file",
+  "main": "lib/index.js",
+  "dependencies": {
+    "date-format": "^1.2.0",
+    "multiparty": "^4.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+	"file",
+    "upload",
+	"upload-file"
+  ],
+  "author": "",
+  "license": "ISC"
+}
